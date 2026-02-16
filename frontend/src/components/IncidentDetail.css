@@ -1,0 +1,30 @@
+.incident-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 24px;
+}
+
+.detail-row {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.detail-label {
+  font-weight: 500;
+  color: #333;
+  min-width: 120px;
+}
+
+.detail-value {
+  color: #4a5568;
+}
+
+.detail-select {
+  max-width: 200px;
+}
+
+.detail-input {
+  max-width: 300px;
+}
